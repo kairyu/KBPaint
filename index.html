@@ -4,45 +4,69 @@ vim: ai:et:ts=4:st=4:sw=4
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
 "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>KBPaint - Keyboard Paint</title>
-    <link rel="stylesheet" href="js/themes/base/jquery.ui.all.css">
-    <link rel="stylesheet" href="css/main.css">
-    <script src="js/jquery-1.9.1.js"></script>
-    <script src="js/ui/jquery.ui.core.js"></script>
-    <script src="js/ui/jquery.ui.widget.js"></script>
-    <script src="js/ui/jquery.ui.position.js"></script>
-    <script src="js/ui/jquery.ui.button.js"></script>
-    <script src="js/ui/jquery.ui.menu.js"></script>
-    <script src="js/ui/jquery.ui.menubar.js"></script>
-    <script src="js/ui.js"></script>
-</head>
-<body>
-<div class="main">
-    <!-- Main Menu -->    
-    <ul id="mainmenu" class="menubar">
-        <li>
-            <a href="#File">File</a>
-            <ul>
-                <li><a href="#New">New</a></li>
-                <li><a href="#Open">Open...</a></li>
-                <li><a href="#Save">Save...</a></li>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>KBPaint - Keyboard Paint</title>
+        <script src="js/jquery-1.9.1.js"></script>
+        <script src="js/jquery-ui-1.10.2.custom.js"></script>
+        <script src="js/jquery.ui.potato.menu.js"></script>
+        <script type="text/javascript" src="js/jMain.js"></script>
+        <link href="css/smoothness/jquery-ui-1.10.2.custom.css" rel="stylesheet">
+        <link href="css/jquery.ui.potato.menu.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+        <div id="header">
+            <h1><a href="#">KBPaint</a></h1>
+        </div>
+        <!-- Main Menu -->    
+        <div id="menu-container">
+            <ul id="menu">
+                <li><a href="#">File</a>
+                    <ul>
+                        <li><a href="#"><span class="ui-icon ui-icon-document"></span>New</a></li>
+                        <li><a href="#"><span class="ui-icon ui-icon-folder-open"></span>Open...</a></li>
+                        <li><a href="#"><span class="ui-icon ui-icon-disk"></span>Save...</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Edit</a></li>
+                <li><a href="#">About</a>
+                    <ul>
+                        <li><a href="#"><span class="ui-icon ui-icon-help"></span>Help</a></li>
+                        <li><a href="#"><span class="ui-icon ui-icon-info"></span>About KBPaint...</a></li>
+                    </ul>
+                </li>
             </ul>
-        </li>
-        <li>
-            <a href="#Edit">Edit</a>
-            <ul>
-            </ul>
-        </li>
-        <li>
-            <a href="#About">About</a>
-            <ul>
-                <li><a href="#Help">Help</a></li>
-                <li><a href="#About">About KBPaint...</a></li>
-            <ul>
-        </li>
-    </ul>
-</div>
-</body>
+        </div>
+        <div id="main-container">
+            <div id="optionbar" class="ui-widget-header ui-corner-all">
+                <button id="btn1">btn1</button>
+                <button id="btn2">btn2-minus</button>
+                <button id="btn3">btn3</button>
+                <button id="btn4">btn4</button>
+
+                <input type="checkbox" id="checkbox1" /><label for="checkbox1">checkbox1</label>
+
+                <span id="radiogroup">
+                    <input type="radio" id="radio1" name="radio" checked="checked" /><label for="radio1">radio1</label>
+                    <input type="radio" id="radio2" name="radio" /><label for="radio2">radio2</label>
+                    <input type="radio" id="radio3" name="radio" /><label for="radio3">radio3</label>
+                    <input type="radio" id="radio4" name="radio" /><label for="radio4">radio4</label>
+                </span>
+            </div>
+            <div id="toolbar" class="ui-widget-content ui-corner-all">
+                <button id="btn5">btn5</button>
+                <button id="btn6">btn6</button>
+                <button id="btn7">btn7</button>
+                <button id="btn8">btn8</button>
+                <button id="btn9">btn9</button>
+                <button id="btn10">btn10</button>
+            </div>
+            <div id="inspector-panel" class="ui-widget-content ui-corner-all">
+                <div class="ui-widget-header ui-corner-all">
+                    Inspector
+                </div>
+            </div>
+        </div>
+    </body>
 </html>
