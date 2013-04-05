@@ -63,7 +63,6 @@ h1 a:hover {
 	width: 40px;
 	min-height: 500px;
 	padding: 6px 0;
-	background: #D5D5D5;
 }
 #inspector-panel {
 	position: absolute;
@@ -80,9 +79,16 @@ h1 a:hover {
  */
 
 /*			menu style			*/
-#menu li,
-#menu li ul li {
+#menu li {
+	float: left;
 	width: 140px;
+}
+#menu li ul li {
+	float: none;
+	width: 134px;
+}
+#menu li ul {
+	z-index: 100;
 }
 #menu .ui-icon {
 	float: left;
@@ -102,7 +108,7 @@ h1 a:hover {
 	margin: 0;
 }
 #toolbar .ui-button {
-	margin: .1em .6em;
+	margin: 0 .6em .4em .6em;
 }
 #inspector-panel .ui-widget-header {
 	padding:.7em 1em;

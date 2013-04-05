@@ -1,7 +1,7 @@
 $(function() {
 	// initialize menu
-	$( "#menu" ).buttonset();
-	$( "#menu" ).ptMenu();
+	$( "#menu" ).menu( { icons: { submenu: "ui-icon-triangle-1-s" },
+		position: { my: "left top", at: "left bottom" } } );
 
 	// initialize option bar
 	$( '#btn1' ).button({
