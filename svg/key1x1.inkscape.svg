@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svgKeycap" style="display:inline;enable-background:new" height="58" width="56" version="1.0" inkscape:version="0.47 r22583" sodipodi:docname="output.svg">
+ <metadata id="metadataKeycap">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title />
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defsKeycap">
+  <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 29 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="56 : 29 : 1" inkscape:persp3d-origin="28 : 19.333333 : 1" id="perspective68" />
+  <filter id="filterShadow" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlurShadow" stdDeviation="0.1075" />
+  </filter>
+  <filter id="filterKeytop" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlurKeytop" stdDeviation="0.056253053" />
+  </filter>
+  <linearGradient id="linearGradientKeytop" y2="33" gradientUnits="userSpaceOnUse" x2="45" y1="24" x1="11" inkscape:collect="always">
+   <stop id="stopKeytop1" offset="0" style="stop-color:#bbbbbb;stop-opacity:1" />
+   <stop id="stopKeytop2" offset="0.56" style="stop-color:#eeeeee;stop-opacity:1" />
+   <stop id="stopKeytop3" offset="1" style="stop-color:#dddddd;stop-opacity:1" />
+  </linearGradient>
+  <linearGradient id="linearGradientRaisedLine" y2="44" gradientUnits="userSpaceOnUse" x2="28" y1="41.25" x1="28" inkscape:collect="always">
+   <stop id="stopRaisedLine1" offset="0" style="stop-color:#cccccc;stop-opacity:1" />
+   <stop id="stopRaisedLine2" offset="0.5" style="stop-color:#eeeeee;stop-opacity:1" />
+   <stop id="stopRaisedLine3" offset="1" style="stop-color:#aaaaaa;stop-opacity:1" />
+  </linearGradient>
+  <linearGradient id="linearGradientShadow" y2="28" gradientUnits="userSpaceOnUse" x2="6.5" y1="28" x1="1.5" inkscape:collect="always">
+   <stop id="stopShadow1" offset="0" style="stop-color:#999999;stop-opacity:0.80000001" />
+   <stop id="stopShadow2" offset="1" style="stop-color:#cccccc;stop-opacity:0.2" />
+  </linearGradient>
+  <linearGradient id="linearGradientBackLeft" y2="2" gradientUnits="userSpaceOnUse" x2="15.5" y1="30" x1="2" inkscape:collect="always">
+   <stop id="stopBackLeft1" offset="0" style="stop-color:#dddddd;stop-opacity:1" />
+   <stop id="stopBackLeft2" offset="0.60000002" style="stop-color:#dddddd;stop-opacity:1" />
+   <stop id="stopBackLeft3" offset="0.80000001" style="stop-color:#eeeeee;stop-opacity:1" />
+   <stop id="stopBackLeft4" offset="0.89999998" style="stop-color:#d4d4d4;stop-opacity:1" />
+   <stop id="stopBackLeft5" offset="1" style="stop-color:#d4d4d4;stop-opacity:1" />
+  </linearGradient>
+  <linearGradient id="linearGradientBackRight" y2="2" gradientUnits="userSpaceOnUse" x2="40.5" y1="30" x1="54" inkscape:collect="always">
+   <stop id="stopBackRight1" offset="0" style="stop-color:#aaaaaa;stop-opacity:1" />
+   <stop id="stopBackRight2" offset="0.60000002" style="stop-color:#aaaaaa;stop-opacity:1" />
+   <stop id="stopBackRight3" offset="0.79860002" style="stop-color:#dddddd;stop-opacity:1" />
+   <stop id="stopBackRight4" offset="0.89999998" style="stop-color:#d4d4d4;stop-opacity:1" />
+   <stop id="stopBackRight5" offset="1" style="stop-color:#d4d4d4;stop-opacity:1" />
+  </linearGradient>
+  <linearGradient id="linearGradientFrontLeft" y2="56" gradientUnits="userSpaceOnUse" x2="29" y1="28" x1="2" inkscape:collect="always">
+   <stop id="stopFrontLeft1" offset="0" style="stop-color:#dddddd;stop-opacity:1" />
+   <stop id="stopFrontLeft2" offset="0.34999999" style="stop-color:#dddddd;stop-opacity:1" />
+   <stop id="stopFrontLeft3" offset="0.5" style="stop-color:#eeeeee;stop-opacity:1" />
+   <stop id="stopFrontLeft4" offset="0.64999998" style="stop-color:#aaaaaa;stop-opacity:1" />
+   <stop id="stopFrontLeft5" offset="1" style="stop-color:#aaaaaa;stop-opacity:1" />
+  </linearGradient>
+  <linearGradient id="linearGradientFrontRight" y2="56" gradientUnits="userSpaceOnUse" x2="27" y1="28" x1="54" inkscape:collect="always">
+   <stop id="stopFrontRight1" offset="0" style="stop-color:#aaaaaa;stop-opacity:1" />
+   <stop id="stopFrontRight2" offset="0.34999999" style="stop-color:#aaaaaa;stop-opacity:1" />
+   <stop id="stopFrontRight3" offset="0.5" style="stop-color:#bbbbbb;stop-opacity:1" />
+   <stop id="stopFrontRight4" offset="0.64999998" style="stop-color:#aaaaaa;stop-opacity:1" />
+   <stop id="stopFrontRight5" offset="1" style="stop-color:#aaaaaa;stop-opacity:1" />
+  </linearGradient>
+ </defs>
+ <sodipodi:namedview id="base" fit-margin-left="0" inkscape:showpageshadow="false" inkscape:zoom="12.896552" borderopacity="1.0" inkscape:current-layer="layerKeycap" inkscape:cx="28" inkscape:cy="29" inkscape:snap-grids="true" inkscape:window-maximized="1" inkscape:snap-bbox="true" showgrid="true" fit-margin-right="0" inkscape:guide-bbox="true" showguides="true" bordercolor="#666666" inkscape:window-x="1916" guidetolerance="10" objecttolerance="10" inkscape:window-y="-4" fit-margin-bottom="0" inkscape:window-width="1920" inkscape:pageopacity="0" inkscape:pageshadow="2" pagecolor="#cccccc" gridtolerance="10000" inkscape:document-units="px" inkscape:window-height="1015" showborder="true" fit-margin-top="0">
+  <inkscape:grid id="gridKeycap" enabled="true" visible="true" snapvisiblegridlinesonly="true" type="xygrid" empspacing="5" />
+ </sodipodi:namedview>
+ <g id="layerBackgroundMask" inkscape:groupmode="layer">
+  <rect id="rectBackgroundMask" rx="4" ry="4" height="58" width="56" y="0" x="0" style="fill:#333333" />
+ </g>
+ <g id="layerKeyMask" inkscape:groupmode="layer">
+  <rect id="rectKeyMask" style="fill:#eeeeee;enable-background:new" rx="4" ry="4" height="54" width="52" y="2" x="2" />
+ </g>
+ <g id="layerKeycap" inkscape:groupmode="layer" style="display:inline">
+  <g id="gKeycap" style="display:inline">
+   <rect id="rectFront" height="28" width="44" y="28" x="6.25" style="fill:#aaaaaa" />
+   <rect id="rectBack" height="28" width="44" y="2" x="6.25" style="fill:#d4d4d4" />
+   <path id="pathFrontRight" d="M 27,28 V 56 H 50 C 52.216,56 54,54.216 54,52 V 28 H 27 z" inkscape:connector-curvature="0" style="fill:url(#linearGradientFrontRight)" />
+   <path id="pathFrontLeft" d="M 2,28 V 52 C 2,54.216 3.784,56 6,56 H 29 V 28 H 2 z" inkscape:connector-curvature="0" style="fill:url(#linearGradientFrontLeft)" />
+   <path id="pathBackRight" d="M 40.5,2 27,9 V 16 30 H 54 V 6 C 54,3.784 52.216,2 50,2 H 40.5 z" inkscape:connector-curvature="0" style="fill:url(#linearGradientBackRight)" />
+   <path id="pathBackLeft" d="M 6,2 C 3.784,2 2,3.784 2,6 V 30 H 29 V 16 9 L 15.5,2 H 6 z" inkscape:connector-curvature="0" style="fill:url(#linearGradientBackLeft)" />
+   <path id="pathKeytop" d="M 15.5,7.5043775 C 17.35,7.5943676 21.05,7.7043555 28,7.7043555 34.94,7.7043555 38.38,7.6043665 40.5,7.5043775 42.72,7.4043885 44.5,9.1941916 44.5,11.403948 L 44.5,42.400538 C 44.5,44.620294 41.62,46.230117 40.5,46.600076 39.29,47.010031 36.6,47.499977 28,47.499977 19.3,47.499977 16.91,47.000032 15.5,46.600076 14.11,46.210119 11.5,44.620294 11.5,42.400538 L 11.5,11.403948 C 11.5,9.1941916 13.65,7.4143874 15.5,7.5043775 z" sodipodi:nodetypes="czzcczzzccz" inkscape:connector-curvature="0" style="fill:url(#linearGradientKeytop);stroke:#eeeeee;stroke-width:1.00004506;stroke-opacity:0.86667002;filter:url(#filterKeytop)" />
+   <path id="pathShadow" d="M 2,7.5 C 4.7858,9.652 5.9528,10.587 5.9563,11.446 6.0124,25.343 6.0168,31.701 5.9563,45.315 5.9503,46.609 4.8578,47.438 2,50.5" sodipodi:nodetypes="csss" inkscape:connector-curvature="0" style="fill:url(#linearGradientShadow);fill-rule:evenodd;filter:url(#filterShadow)" />
+   <rect id="rectRaisedLine" style="fill:url(#linearGradientRaisedLine);stroke:#aaaaaa;stroke-width:0.5;stroke-miterlimit:0.5;enable-background:new" rx="2" ry="2" height="2.5" width="15.5" stroke-miterlimit=".5" y="41.25" x="20.25" />
+  </g>
+ </g>
+ <g id="layerKeytopSimple" inkscape:groupmode="layer" display="none" style="display:none">
+  <rect id="rectKeytopSimple" style="fill:#dddddd;stroke:#aaaaaa;display:inline;enable-background:new" rx="4" ry="4" height="41" width="37" display="inline" y="6.5" x="9.5" />
+ </g>
+ <g id="layerColor" inkscape:groupmode="layer" style="opacity:0.6;display:inline">
+  <rect style="fill:#ff0000;fill-opacity:0.86667002;enable-background:new" rx="4" ry="4" height="54" width="52" y="2" x="2" id="rectColor" />
+ </g>
+ <g id="layerText" inkscape:groupmode="layer" style="fill:#000000;font-family:Microsoft Sans Serif">
+  <text style="font-size:14px;text-align:center;line-height:125%;text-anchor:middle" line-height="125%" sodipodi:linespacing="125%" font-size="14px" y="23" x="21.5" xml:space="preserve" id="textText"><tspan sodipodi:role="line" style="font-size:14px;text-align:center;line-height:125%;text-anchor:middle;font-family:Microsoft Sans Serif" font-size="14px" line-height="125%" y="23" x="21.5" id="tspanText">J</tspan></text>
+ </g>
+</svg>

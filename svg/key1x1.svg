@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svgKeycap" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" height="58" width="56" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadataKeycap">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defsKeycap">
+  <filter id="filterShadow" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlurShadow" stdDeviation="0.1075"/>
+  </filter>
+  <filter id="filterKeytop" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlurKeytop" stdDeviation="0.056253053"/>
+  </filter>
+  <linearGradient id="linearGradientKeytop" y2="33" gradientUnits="userSpaceOnUse" y1="24" x2="45" x1="11">
+   <stop id="stopKeytop1" stop-color="#bbb" offset="0"/>
+   <stop id="stopKeytop2" stop-color="#eee" offset=".56"/>
+   <stop id="stopKeytop3" stop-color="#ddd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradientRaisedLine" y2="44" gradientUnits="userSpaceOnUse" y1="41.25" x2="28" x1="28">
+   <stop id="stopRaisedLine1" stop-color="#ccc" offset="0"/>
+   <stop id="stopRaisedLine2" stop-color="#eee" offset=".5"/>
+   <stop id="stopRaisedLine3" stop-color="#aaa" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradientShadow" y2="28" gradientUnits="userSpaceOnUse" y1="28" x2="6.5" x1="1.5">
+   <stop id="stopShadow1" stop-color="#999" stop-opacity="0.8" offset="0"/>
+   <stop id="stopShadow2" stop-color="#ccc" stop-opacity=".2" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradientBackLeft" y2="2" gradientUnits="userSpaceOnUse" y1="30" x2="15.5" x1="2">
+   <stop id="stopBackLeft1" stop-color="#ddd" offset="0"/>
+   <stop id="stopBackLeft2" stop-color="#ddd" offset="0.6"/>
+   <stop id="stopBackLeft3" stop-color="#eee" offset="0.8"/>
+   <stop id="stopBackLeft4" stop-color="#d4d4d4" offset="0.9"/>
+   <stop id="stopBackLeft5" stop-color="#d4d4d4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradientBackRight" y2="2" gradientUnits="userSpaceOnUse" y1="30" x2="40.5" x1="54">
+   <stop id="stopBackRight1" stop-color="#aaa" offset="0"/>
+   <stop id="stopBackRight2" stop-color="#aaa" offset="0.6"/>
+   <stop id="stopBackRight3" stop-color="#ddd" offset=".79860"/>
+   <stop id="stopBackRight4" stop-color="#d4d4d4" offset="0.9"/>
+   <stop id="stopBackRight5" stop-color="#d4d4d4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradientFrontLeft" y2="56" gradientUnits="userSpaceOnUse" y1="28" x2="29" x1="2">
+   <stop id="stopFrontLeft1" stop-color="#ddd" offset="0"/>
+   <stop id="stopFrontLeft2" stop-color="#ddd" offset="0.35"/>
+   <stop id="stopFrontLeft3" stop-color="#eee" offset=".5"/>
+   <stop id="stopFrontLeft4" stop-color="#aaa" offset="0.65"/>
+   <stop id="stopFrontLeft5" stop-color="#aaa" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradientFrontRight" y2="56" gradientUnits="userSpaceOnUse" y1="28" x2="27" x1="54">
+   <stop id="stopFrontRight1" stop-color="#aaa" offset="0"/>
+   <stop id="stopFrontRight2" stop-color="#aaa" offset="0.35"/>
+   <stop id="stopFrontRight3" stop-color="#bbb" offset=".5"/>
+   <stop id="stopFrontRight4" stop-color="#aaa" offset="0.65"/>
+   <stop id="stopFrontRight5" stop-color="#aaa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layerBackgroundMask">
+  <rect id="rectBackgroundMask" rx="4" ry="4" height="58" width="56" y="0" x="0" fill="#333"/>
+ </g>
+ <g id="layerKeyMask">
+  <rect id="rectKeyMask" style="enable-background:new" rx="4" ry="4" height="54" width="52" y="2" x="2" fill="#eee"/>
+ </g>
+ <g id="layerKeycap">
+  <g id="gKeycap">
+   <rect id="rectFront" height="28" width="44" y="28" x="6.25" fill="#aaa"/>
+   <rect id="rectBack" height="28" width="44" y="2" x="6.25" fill="#d4d4d4"/>
+   <path id="pathFrontRight" fill="url(#linearGradientFrontRight)" d="m27 28v28h23c2.216 0 4-1.784 4-4v-24h-27z"/>
+   <path id="pathFrontLeft" fill="url(#linearGradientFrontLeft)" d="m2 28v24c0 2.216 1.784 4 4 4h23v-28h-27z"/>
+   <path id="pathBackRight" fill="url(#linearGradientBackRight)" d="m40.5 2-13.5 7v21h27v-24c0-2.216-1.784-4-4-4h-9.5z"/>
+   <path id="pathBackLeft" fill="url(#linearGradientBackLeft)" d="m6 2c-2.216 0-4 1.784-4 4v24h27v-21l-13.5-7h-9.5z"/>
+   <path id="pathKeytop" d="m15.5 7.5044c1.85 0.09 5.55 0.2 12.5 0.2 6.94 0 10.38-0.1 12.5-0.2 2.22-0.1 4 1.6898 4 3.8996v30.997c0 2.219-2.88 3.829-4 4.199-1.21 0.41-3.9 0.9-12.5 0.9-8.7 0-11.09-0.5-12.5-0.9-1.39-0.39-4-1.98-4-4.199v-30.997c0-2.2098 2.15-3.9896 4-3.8996z" stroke-opacity=".86667" filter="url(#filterKeytop)" stroke="#eee" fill="url(#linearGradientKeytop)"/>
+   <path id="pathShadow" d="m2 7.5c2.7858 2.152 3.9528 3.087 3.9563 3.946 0.0561 13.897 0.0605 20.255 0 33.869-0.006 1.294-1.0985 2.123-3.9563 5.185" fill-rule="evenodd" filter="url(#filterShadow)" fill="url(#linearGradientShadow)"/>
+   <rect id="rectRaisedLine" style="enable-background:new" rx="2" ry="2" height="2.5" width="15.5" stroke="#aaa" stroke-miterlimit=".5" y="41.25" x="20.25" stroke-width=".5" fill="url(#linearGradientRaisedLine)"/>
+  </g>
+ </g>
+ <g id="layerKeytopSimple" display="none">
+  <rect id="rectKeytopSimple" style="enable-background:new" display="inline" rx="4" ry="4" height="41" width="37" stroke="#aaa" y="6.5" x="9.5" fill="#ddd"/>
+ </g>
+ <g id="layerColor" opacity=".6">
+  <rect id="rectColor" style="enable-background:new" fill-opacity=".86667" rx="4" ry="4" height="54" width="52" y="2" x="2" fill="#f00"/>
+ </g>
+ <g id="layerText" font-family="Microsoft Sans Serif">
+  <text id="textText" style="text-anchor:middle;text-align:center" font-size="14px" xml:space="preserve" y="23" x="21.5" line-height="125%"><tspan id="tspanText" style="text-anchor:middle;text-align:center" font-size="14px" y="23" x="21.5" font-family="Microsoft Sans Serif" line-height="125%">J</tspan></text>
+ </g>
+</svg>
