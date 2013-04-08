@@ -68,8 +68,8 @@
  </g>
  <g id="layerKeycap">
   <g id="gKeycap">
-   <rect id="rectFront" height="28" width="44" y="28" x="6.25" fill="#aaa"/>
-   <rect id="rectBack" height="28" width="44" y="2" x="6.25" fill="#d4d4d4"/>
+   <rect id="rectFront" height="28" width="44" y="28" x="6" fill="#aaa"/>
+   <rect id="rectBack" height="28" width="44" y="2" x="6" fill="#d4d4d4"/>
    <path id="pathFrontRight" fill="url(#linearGradientFrontRight)" d="m27 28v28h23c2.216 0 4-1.784 4-4v-24h-27z"/>
    <path id="pathFrontLeft" fill="url(#linearGradientFrontLeft)" d="m2 28v24c0 2.216 1.784 4 4 4h23v-28h-27z"/>
    <path id="pathBackRight" fill="url(#linearGradientBackRight)" d="m40.5 2-13.5 7v21h27v-24c0-2.216-1.784-4-4-4h-9.5z"/>
@@ -82,7 +82,7 @@
  <g id="layerKeytopSimple" display="none">
   <rect id="rectKeytopSimple" style="enable-background:new" display="inline" rx="4" ry="4" height="41" width="37" stroke="#aaa" y="6.5" x="9.5" fill="#ddd"/>
  </g>
- <g id="layerColor" opacity=".6">
+ <g id="layerColor" opacity=".6" display="none">
   <rect id="rectColor" style="enable-background:new" fill-opacity=".86667" rx="4" ry="4" height="54" width="52" y="2" x="2" fill="#f00"/>
  </g>
  <g id="layerText" font-family="Microsoft Sans Serif">

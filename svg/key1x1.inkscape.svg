@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svgKeycap" style="display:inline;enable-background:new" height="58" width="56" version="1.0" inkscape:version="0.47 r22583" sodipodi:docname="output.svg">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svgKeycap" style="display:inline;enable-background:new" height="58" width="56" version="1.0" inkscape:version="0.47 r22583" sodipodi:docname="key1x1.inkscape.svg">
  <metadata id="metadataKeycap">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -62,7 +62,7 @@
    <stop id="stopFrontRight5" offset="1" style="stop-color:#aaaaaa;stop-opacity:1" />
   </linearGradient>
  </defs>
- <sodipodi:namedview id="base" fit-margin-left="0" inkscape:showpageshadow="false" inkscape:zoom="12.896552" borderopacity="1.0" inkscape:current-layer="layerKeycap" inkscape:cx="28" inkscape:cy="29" inkscape:snap-grids="true" inkscape:window-maximized="1" inkscape:snap-bbox="true" showgrid="true" fit-margin-right="0" inkscape:guide-bbox="true" showguides="true" bordercolor="#666666" inkscape:window-x="1916" guidetolerance="10" objecttolerance="10" inkscape:window-y="-4" fit-margin-bottom="0" inkscape:window-width="1920" inkscape:pageopacity="0" inkscape:pageshadow="2" pagecolor="#cccccc" gridtolerance="10000" inkscape:document-units="px" inkscape:window-height="1015" showborder="true" fit-margin-top="0">
+ <sodipodi:namedview id="base" fit-margin-left="0" inkscape:showpageshadow="false" inkscape:zoom="18.238479" borderopacity="1.0" inkscape:current-layer="layerKeycap" inkscape:cx="19.720888" inkscape:cy="21.200277" inkscape:snap-grids="true" inkscape:window-maximized="1" inkscape:snap-bbox="true" showgrid="true" fit-margin-right="0" inkscape:guide-bbox="true" showguides="true" bordercolor="#666666" inkscape:window-x="1916" guidetolerance="10" objecttolerance="10" inkscape:window-y="-4" fit-margin-bottom="0" inkscape:window-width="1920" inkscape:pageopacity="0" inkscape:pageshadow="2" pagecolor="#cccccc" gridtolerance="10000" inkscape:document-units="px" inkscape:window-height="1015" showborder="true" fit-margin-top="0">
   <inkscape:grid id="gridKeycap" enabled="true" visible="true" snapvisiblegridlinesonly="true" type="xygrid" empspacing="5" />
  </sodipodi:namedview>
  <g id="layerBackgroundMask" inkscape:groupmode="layer">
@@ -73,8 +73,8 @@
  </g>
  <g id="layerKeycap" inkscape:groupmode="layer" style="display:inline">
   <g id="gKeycap" style="display:inline">
-   <rect id="rectFront" height="28" width="44" y="28" x="6.25" style="fill:#aaaaaa" />
-   <rect id="rectBack" height="28" width="44" y="2" x="6.25" style="fill:#d4d4d4" />
+   <rect id="rectFront" height="28" width="44" y="28" x="6" style="fill:#aaaaaa" />
+   <rect id="rectBack" height="28" width="44" y="2" x="6" style="fill:#d4d4d4" />
    <path id="pathFrontRight" d="M 27,28 V 56 H 50 C 52.216,56 54,54.216 54,52 V 28 H 27 z" inkscape:connector-curvature="0" style="fill:url(#linearGradientFrontRight)" />
    <path id="pathFrontLeft" d="M 2,28 V 52 C 2,54.216 3.784,56 6,56 H 29 V 28 H 2 z" inkscape:connector-curvature="0" style="fill:url(#linearGradientFrontLeft)" />
    <path id="pathBackRight" d="M 40.5,2 27,9 V 16 30 H 54 V 6 C 54,3.784 52.216,2 50,2 H 40.5 z" inkscape:connector-curvature="0" style="fill:url(#linearGradientBackRight)" />
@@ -87,7 +87,7 @@
  <g id="layerKeytopSimple" inkscape:groupmode="layer" display="none" style="display:none">
   <rect id="rectKeytopSimple" style="fill:#dddddd;stroke:#aaaaaa;display:inline;enable-background:new" rx="4" ry="4" height="41" width="37" display="inline" y="6.5" x="9.5" />
  </g>
- <g id="layerColor" inkscape:groupmode="layer" style="opacity:0.6;display:inline">
+ <g id="layerColor" inkscape:groupmode="layer" style="opacity:0.6;display:none">
   <rect style="fill:#ff0000;fill-opacity:0.86667002;enable-background:new" rx="4" ry="4" height="54" width="52" y="2" x="2" id="rectColor" />
  </g>
  <g id="layerText" inkscape:groupmode="layer" style="fill:#000000;font-family:Microsoft Sans Serif">
